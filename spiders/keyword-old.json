@@ -1,0 +1,52 @@
+[
+    {
+        "Topic": "Environment",
+        "Sub Topic": "Pencemaran Lokal",
+        "Keyword": ["Tumpahan Minyak", "Krisis air", "Ceceran BBM", "Gas Rumah Kaca (GRK) Emisi", "Polutan Udara"]
+    },
+    {
+        "Topic": "Environment",
+        "Sub Topic": "Ekosistem",
+        "Keyword": ["Kerusakan Terumbu Karang", "Kepunahan keanekaragaman hayati", "Ikan Mati"]
+    },
+    {
+        "Topic": "Environment",
+        "Sub Topic": "Masalah Limbah",
+        "Keyword": ["Limbah Minyak", "Limbah Produksi", "Kebocoran Tangki", "Kebocoran Pompa", "Limbah B3", "Kebocoran Pipa"]
+    },
+    {
+        "Topic": "Social",
+        "Sub Topic": "Masalah Kesehatan",
+        "Keyword": ["Infeksi Saluran Pernafasan", "Keracunan Gas", "Air Tercemar"]
+    },
+    {
+        "Topic": "Social",
+        "Sub Topic": "Dampak Ekonomi",
+        "Keyword": ["Kelangkaan bbm","Kelangkaan kerosene industri","Kelangkaan pertalite","Kenaikan harga pertamax","Penghapusan subsidi pertalite","Kelangkaan avtur","Kelangkaan minyak tanah","Pemotongan Gaji","Mogok Pekerja SPBU","Pengusiran Penduduk Asli","Perampasan Tanah"]
+    },
+    {
+        "Topic": "Social",
+        "Sub Topic": "Keamanan dan Keselamatan",
+        "Keyword": ["Kebakaran Rumah","Kecelakaan Pekerja","Kecelakaan Truk","Kecelakaan Kapal","Kebakaran Kilang"]
+    },
+    {
+        "Topic": "Government",
+        "Sub Topic": "Masalah Keuangan",
+        "Keyword": ["Korupsi","Penyuapan","Pemerasan","Pencucian uang"]
+    },
+    {
+        "Topic": "Government",
+        "Sub Topic": "Penipuan Pajak",
+        "Keyword": ["Surga Pajak","Bebas Pajak"]
+    },
+    {
+        "Topic": "Government",
+        "Sub Topic": "Pencurian Properti",
+        "Keyword": ["Sumur minyak illegal","Penimbunan Minyak","Pencurian Minyak","Penyeludupan Minyak","Pengeboran Minyak illegal","Penyalahgunaan BBM subsidi","Penimbunan LPG subsidi","Kecurangan SPBU"]
+    },
+    {
+        "Topic": "Government",
+        "Sub Topic": "Sabotase",
+        "Keyword": ["Perusakan SPBU"]
+    }
+]

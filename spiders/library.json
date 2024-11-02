@@ -1,0 +1,569 @@
+[
+	{
+		"domain":"kumparan.com",
+		"tgl":"//div[@class='Viewweb__StyledView-sc-b0snvl-0 jlsTnE  flex mt8']/span[@data-qa-id='publish-date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='TextBoxweb__StyledTextBox-sc-1noultz-0 REikg']/span[@data-qa-id]='story-paragraph'/span/text()",
+		"konten1":""
+	},
+	{
+		"domain":"news.detik.com",
+		"tgl":"//div[@class='detail__header']/div[@class='detail__date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='detail__body-text itp_bodycontent']/p/text()",
+		"konten1":"//div[@class='detail__body-text itp_bodycontent']/text()"
+	},
+	{
+		"domain":"detik.com",
+		"tgl":"//div[@class='detail__header']/div[@class='detail__date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='detail__body-text itp_bodycontent']/p/text()",
+		"konten1":"//div[@class='detail__body-text itp_bodycontent']/text()"
+	},
+	{
+		"domain":"finance.detik.com",
+		"tgl":"//div[@class='detail__date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='detail__body-text itp_bodycontent']/p/text()",
+		"konten1":"//div[@class='detail__body-text itp_bodycontent']/text()"
+	},
+	{
+		"domain":"kompas.com",
+		"tgl":"//div[@class='read__time']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='read__content']/div[@class='clearfix']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain":"regional.kompas.com",
+		"tgl":"//div[@class='read__time']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='read__content']/div[@class='clearfix']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain":"kompas.tv",
+		"tgl":"//div/span[@class='time-news']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='paragraph']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain":"gatra.com",
+		"tgl":"//header/div[@class='meta-info']/span/time[@class='entry-date updated td-module-date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='td-paragraph-padding-1']/p/text()",
+		"konten1":"//div[@class='td-paragraph-padding-1']/div/text()"
+	},
+	{
+		"domain":"autofun.co.id",
+		"tgl":"//div[@class='new-info-author-info']/p/span/text()",
+		"judul":"//title/text()",
+		"konten":"//article[@class='article-content new-info-article editor-detail']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain":"tirto.id",
+		"tgl":"//div/span[@class='detail-date mt-1 text-left']/text()",
+		"judul":"//title/text()",
+		"konten":"//article/div[@class='content-text-editor']/text()",
+		"konten1":""
+	},
+	{
+		"domain":"wowkeren.com",
+		"tgl":"//div[@class='news-details-layout1']/ul/li/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@itemprop='articleBody']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain":"hubla.dephub.go.id",
+		"tgl":"//div[@class='date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='content']/p/span/text()",
+		"konten1":""
+	},
+	{
+		"domain": "jatim.antaranews.com",
+		"tgl":"//span[@class='article-date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='post-content clearfix']/text()",
+		"konten1":"//div[@class='post-content clearfix']/div/text()"
+	},
+	{
+		"domain": "antaranews.com",
+		"tgl":"//article/header/p/span/span[@class='article-date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='post-content clearfix']/text()",
+		"konten1":""
+	},
+	{
+		"domain": "bengkulu.antaranews.com",
+		"tgl":"//header/p/span/span[@class='article-date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='post-content clearfix']/text()",
+		"konten1":""
+	},
+	{
+		"domain": "istockphoto.com",
+		"tgl":"",
+		"judul":"//title/text()",
+		"konten":"",
+		"konten1":""
+	},
+	{
+		"domain": "kaltim.prokal.co",
+		"tgl":"//div[@class='content-artikel']/small[@class='content-artikel-tanggal']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='content-artikel-text']/div[@id='bodytext']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "bbc.com",
+		"tgl":"//main/div[@class]/time[@class]/text()",
+		"judul":"//title/text()",
+		"konten":"//main/div[@class]/p[@class]/text()",
+		"konten1":""
+	},
+	{
+		"domain": "radarsurabaya.jawapos.com",
+		"tgl":"//div/div[@class='read__info__date']/text()",
+		"judul":"//title/text()",
+		"konten":"//article[@class='read__content clearfix']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "beritasatu.com",
+		"tgl":"//div[@class='row mb-3']/div[@class='col']/small/span[@class='text-muted']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='col body-content']/p/text()",
+		"konten1":"//div[@class='col b1-article body-content']/p/text()"
+	},
+	{
+		"domain": "viva.co.id",
+		"tgl":"//div[@class='main-content-date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='main-content-detail']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "cnbcindonesia.com",
+		"tgl":"//div[@class='date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='detail_text']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "makassar.terkini.id",
+		"tgl":"//div[@class='td-article-info']/span/text()",
+		"judul":"//title/text()",
+		"konten":"//article[@class='td-article-body']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "bali.jpnn.com",
+		"tgl":"//span[@class='date-publish']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@itemprop='articleBody']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "jpnn.com",
+		"tgl":"//span[@class='date-publish']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@itemprop='articleBody']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "msn.com",
+		"tgl":"//div[@class='viewsAttribution viewsAttributionFullWidth viewsAttributionNewRR']/span[@class='viewsAuthors']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='views-article-body articlePage_body-DS-EntryPoint1-1 articlePage_body_overrides_new-DS-EntryPoint1-1']/p[@data-t]/text()",
+		"konten1":""
+	},
+	{
+		"domain": "sumsel.tribunnews.com",
+		"tgl":"//div[@class='grey bdr3 pb10 pt10']/time/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='article_con']/div[@class='side-article txt-article multi-fontsize']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "tribunnews.com",
+		"tgl":"//div/div[@class='mt10']/time/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='article_con']/div[@class='side-article txt-article multi-fontsize']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "muria.tribunnews.com",
+		"tgl":"//div[@class='grey bdr3 pb10 pt10']/time/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='article_con']/div[@class='side-article txt-article multi-fontsize']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "manado.tribunnews.com",
+		"tgl":"//div[@class='grey bdr3 pb10 pt10']/time/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='article_con']/div[@class='side-article txt-article multi-fontsize']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "bengkulu.tribunnews.com",
+		"tgl":"//div[@class='grey bdr3 pb10 pt10']/time/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='article_con']/div[@class='side-article txt-article multi-fontsize']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "kaltara.tribunnews.com",
+		"tgl":"//div[@class='grey bdr3 pb10 pt10']/time/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='article_con']/div[@class='side-article txt-article multi-fontsize']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "wartakota.tribunnews.com",
+		"tgl":"//div[@class='grey bdr3 pb10 pt10']/time/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='article_con']/div[@class='side-article txt-article multi-fontsize']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "palembang.tribunnews.com",
+		"tgl":"//div[@class='grey bdr3 pb10 pt10']/time/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='article_con']/div[@class='side-article txt-article multi-fontsize editcontent']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "jateng.tribunnews.com",
+		"tgl":"//div[@class='grey bdr3 pb10 pt10']/time/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='article_con']/div[@class='side-article txt-article multi-fontsize']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "cirebon.tribunnews.com",
+		"tgl":"//div[@class='grey bdr3 pb10 pt10']/time/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='article_con']/div[@class='side-article txt-article multi-fontsize']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "thediplomat.com",
+		"tgl":"//div[@id='td-meta']/div[@class='td-story-meta__main']/div[@class='td-date']/meta/@content",
+		"judul":"//title/text()",
+		"konten":"//section[@id='td-story-body']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "tempo.co",
+		"tgl":"//article[@class='detail-artikel']/div[@class='detail-title']/p[@itemprop='datePublished']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='isi']//div[@class='detail-konten']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "mongabay.co.id",
+		"tgl":"//div[@id='headline']/div[@class='single-article-meta']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='main']/article/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "idntimes.com",
+		"tgl":"//div[@id='article-page']/ol/li/time[@class='date']/text()",
+		"judul":"//title/text()",
+		"konten":"//article[@class='content-post-description split-page-available']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "okezone.com",
+		"tgl":"//div/div[@class='namerep']/b/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='contentx']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "merdeka.com",
+		"tgl":"//div[@id='mdk-body']/div[@class='col-dt-hedline']/span[@class='date-post']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='mdk-body']/div[@class='mdk=body-paragraph']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "liputan6.com",
+		"tgl":"//div[@class='read-page--header--author__wrapper']/p[@class='read-page--header--author__datetime-wrapper']/time[@class='read-page--header--author__modified-time updated']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='main']/div[@class='article-content-body__item-content']/p/text()",
+		"konten1":"//div[@class='article-content-body article-content-body_with-aside']/div[@class='article-content-body__item-page ']/div[@class='article-content-body__item-content']/p/text()"
+	},
+	{
+		"domain": "jateng.suara.com",
+		"tgl":"//div[@class='date-article']/span/text()",
+		"judul":"//title/text()",
+		"konten":"//article[@class='detail-content detail-berita']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "suara.com",
+		"tgl":"//div[@class='content-details']/div[@class='dateDetail']/div/time[@itemprop='datePublished']/text()",
+		"judul":"//title/text()",
+		"konten":"//article[@class='content-article detail-berita']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "wartaekonomi.co.id",
+		"tgl":"//div[@class='articlePostHeader mb-3']/time/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='articlePostContent clearfix lh-lg mb-4']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "asia.nikkei.com",
+		"tgl":"//div[@class='article__details']/span/time/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='article-body-preview']/div[@class='ezrichtext-field']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "metrotvnews.com",
+		"tgl":"//div[@class='news']/p/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='news-text']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "koran-jakarta.com",
+		"tgl":"//div[@class='entry-meta']/strong/text()",
+		"judul":"//title/text()",
+		"konten":"//article[@class='entry-wraper mb-5']/div[@class='font-droidsans dropcap news-font article-description text-justify']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "timesindonesia.co.id",
+		"tgl":"//div[@class='col-6 text-right']/div[@class='small text-muted']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='p-3 mb-3 bg-white rounded shadow-sm news-body']/div[@id='news_content']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "monitor.co.id",
+		"tgl":"//div[@class='tdb-block-inner td-fix-index']/time/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='tdb-block-inner td-fix-index']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "fajar.co.id",
+		"tgl":"//header[@class='entry-header entry-header-single']/div[@class='meta-content gmr-content-metasingle']/span/time[@class='entry-date published']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='single-wrap']/div[@class='entry-content entry-content-single clearfix']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "timesindonesia.co.id",
+		"tgl":"//div[@class='col-6 text-right']/div[@class='small text-muted']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@id='p-3 mb-3 bg-white rounded shadow-sm news-body']/div[@id='news_content']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "suarantb.com",
+		"tgl":"//div[@class='tdb-block-inner td-fix-index']/time/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='tdb-block-inner td-fix-index']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "lifestyle.sindonews.com",
+		"tgl":"//article/div[@class='warp-nama-redaksi']/div[@class='detail-date-artikel']/text()",
+		"judul":"//title/text()",
+		"konten":"//article/div[@class='detail-desc']/text()",
+		"konten1":""
+	},
+	{
+		"domain": "pilar.id",
+		"tgl":"//div[@class='post-meta-items meta-below']/span[@class='meta-item date']/time/text()",
+		"judul":"//title/text()",
+		"konten":"//article[@id='post-95979']/div[@class='post-content-wrap']/div[@class='post-content cf entry-content content-normal']/text()",
+		"konten1":""
+	},
+	{
+		"domain": "elshinta.com",
+		"tgl":"//div[@class='row news-header']/div[@class='bread']/div[@class='text']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='news-main']/div[@class='desc']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "jambiekspres.disway.id",
+		"tgl":"//div[@class='post-info bottom-15']/div[@class='text-grey']/span[@class='date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='post text-black-1']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "radartasik.disway.id",
+		"tgl":"//div[@class='post-info bottom-15']/div[@class='text-grey']/span[@class='date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='post text-black-1']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "jambiindependent.disway.id",
+		"tgl":"//div[@class='post-info bottom-15']/div[@class='text-grey']/span[@class='date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='post text-black-1']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "headtopics.com",
+		"tgl":"//div[@class='Article-readingTime']/span[@class='ReadingTime']/span/text()",
+		"judul":"//title/text()",
+		"konten":"//main[@class='Article-contentBlocks']/div[@class='ArticleContentBlock ArticleContentBlock--text ArticleContentBlock--right Copy Copy--l']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "inews.id",
+		"tgl":"//div[@class='author']/a/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='body-text-news']/div[@class='text-news vidy-load']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "inilah.com",
+		"tgl":"//div[@class='single-meta-info p-meta-info']/span[@class='meta-info-el meta-info-date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='single-content has-left-section']/div[@class='entry-content clearfix']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "economy.okezone.com",
+		"tgl":"//div[@class='container-bodyhome-left']/div[@class='reporter']/div[@class='namerep']/b/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='detail detail__billboard class-vidy']/div[@id='contentx']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "inews.id",
+		"tgl":"//div[@class='author']/a/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='body-text-news']/div[@class='text-news vidy-load']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "nasdaq.com",
+		"tgl":"//div[@class='nsdq-l-grid__item syndicated-article-header']/div[@class='jupiter22-c-author-byline']/p/text()",
+		"judul":"//title/text()",
+		"konten":"//section[@class='jupiter22-c-article-body']/div[@class='body']/div[@class='body__content']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "zawya.com",
+		"tgl":"//div[@class='jsx-2170174440 article-date article-date-overridden']/span/text()",
+		"judul":"//title/text()",
+		"konten":"//main[@class='article-content']/div[@class='article-body']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "gulftoday.ae",
+		"tgl":"//div[@class='tile-article-info']/ul[@class='uk-list']/li/span/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='uk-grid-collapse uk-grid']/div[@class='uk-width-expand gt-article-container']/text()",
+		"konten1":""
+	},
+	{
+		"domain": "channelnewsasia.com",
+		"tgl":"//div[@class='article-publish article-publish-- block block-mc-content-share-bookmark block-content-share-bookmark clearfix']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='content-wrapper']/div[@class='text']/div[@class='text-long'/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "reuters.com",
+		"tgl":"//div[@class='article-header__info__3iXUE']/div[@class='article-header__author-date__2epl4']/time/span/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='article-body__container__3ypuX over-6-para']/div[@class='article-body__content__17Yit']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "rigzone.com",
+		"tgl":"//div[@class='content']/div[@class='articleHeader']/div[@class='articlesubtext']/div[@class='articleDate']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='content']/div[@class='divArticleTextForDesktop']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "gulfbusiness.com",
+		"tgl":"//div[@class='thb-post-title-bottom']/div[@class='thb-post-title-inline-author']/div[@class='author-and-date']/div/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='post-share-container']/div[@class='post-content-container']/div[@class='post-content entry-content']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "finanznachrichten.de",
+		"tgl":"//div[@class='sbSpalteL']/div[@class='seitenelement Nachrichten_Artikel poslinks']/div[@itemscope='itemscope']/div[@id='article--header']/div[@class='article--date-time']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='inhalte-text']/div[@class='f_jcn-newswire']/div[@id='artikelTextPuffer']/text()",
+		"konten1":""
+	},
+	{
+		"domain": "medcom.id",
+		"tgl":"//div[@class='article']/div[@class='article_ct']/div[@class='info']/div/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='article']/div[@class='article_ct']/div[@class='text']/text()",
+		"konten1":""
+	},
+	{
+		"domain": "thejakartapost.com",
+		"tgl":"//div[@class='col-md-10 col-xs-12 detailNews']/div[@class='setMDetail']/div[@class='headDetailArea']/div[@class='post-like']/span/span[@class='day']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='col-md-10 col-xs-12 detailNews']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "jogja.idntimes.com",
+		"tgl":"//div[@id='article-page']/ol/li[@class='gimmick']/time[@class='date']/text()",
+		"judul":"//title/text()",
+		"konten":"//article[@id='article-content']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "ekonomi.bisnis.com",
+		"tgl":"//div[@class='detailsAttribute']/a/span/div[@class='detailsAttributeDates']/text()",
+		"judul":"//title/text()",
+		"konten":"//article[@class='detailsContent force-17 mt40']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "medan.viva.co.id",
+		"tgl":"//main[@class='main-content']/div[@class='main-content-top']/div[@class='main-content-date']/text()",
+		"judul":"//title/text()",
+		"konten":"//main[@class='main-content']/div[@class='main-content-detail']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "rejabar.republika.co.id",
+		"tgl":"//main/div[@class='main-content']/div[@class='main-content__left']/div[@class='date date-item__headline']/text()",
+		"judul":"//title/text()",
+		"konten":"//main[@class='main-content']/div[@class='main-content__left']/div[@class='article-content']/article/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "radarkudus.jawapos.com",
+		"tgl":"//div[@class='read__info']/div[@class='read__info__date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='read__article clearfix js--tower-parent']/div/article[@class='read__content clearfix']/p/text()",
+		"konten1":""
+	},
+	{
+		"domain": "baliexpress.jawapos.com",
+		"tgl":"//div[@class='read__info']/div[@class='read__info__date']/text()",
+		"judul":"//title/text()",
+		"konten":"//div[@class='read__article clearfix js--tower-parent']/div/article[@class='read__content clearfix']/p/text()",
+		"konten1":""
+	}
+]
